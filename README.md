@@ -51,6 +51,8 @@
 10) Написать скрипт, который будет выводить в консоль сообщение о том, что объект Sphere столкнулся с объектом Cube;
 11) При столкновении Cube должен менять свой цвет на зелёный, а при завершении столкновения обратно на красный.
 
+![image](https://user-images.githubusercontent.com/100475554/192155886-083dc326-e9a0-446d-8554-e2d318ca2ecb.png)
+
 ![image](https://user-images.githubusercontent.com/100475554/192155840-2bf31b03-74f2-4a9d-907a-563cdbb026ee.png)
 
 ![image](https://user-images.githubusercontent.com/100475554/192155853-25217d85-052e-44d0-8e1f-2551492271e4.png)
@@ -64,8 +66,6 @@
 2) Привязываем новый куб к созданному ранее
 3) Координаты изменяются
 4) Отвязав кубик координаты возвращаются в предыдущее значение
-
-![image](https://user-images.githubusercontent.com/100475554/192155886-083dc326-e9a0-446d-8554-e2d318ca2ecb.png)
 
 ![Снимок экрана (558)](https://user-images.githubusercontent.com/100475554/192155384-071b5468-ac28-411a-ac5e-46a378cf59bf.png)
 
